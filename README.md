@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 -->
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Noudi03&show_icons=true&theme=radical&count_private=true))
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Noudi03)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Noudi03.Noudi03)  
