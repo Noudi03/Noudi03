@@ -12,5 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![](https://visitor-badge.laobi.icu/badge?page_id=Noudi03.Noudi03)  
+
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Noudi03&show_icons=true&theme=radical&count_private=true))
+
+
+![](https://visitor-badge.laobi.icu/badge?page_id=Noudi03.Noudi03)  
