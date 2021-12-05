@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 -->
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Noudi03&show_icons=true&theme=radical&count_private=true))
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Noudi03&show_icons=true&theme=radical&count_private=true)
 
 <!--![Github trophies](https://github-profile-trophy.vercel.app/?username=Noudi03&no-bg=true)-->
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=noudi03&v=2&theme=radical&)](https://github.com/anuraghazra/github-readme-stats)
