@@ -4,7 +4,7 @@
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ..
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning
 - 💬 Ask me about ...
 - 📫 How to reach me: ..
 -->
@@ -17,3 +17,5 @@ Here are some ideas to get you started:
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Noudi03.Noudi03)
 [![wakatime](https://wakatime.com/badge/user/1952dc92-64e1-40d8-8cc5-242b6d81d12a.svg)](https://wakatime.com/@1952dc92-64e1-40d8-8cc5-242b6d81d12a)
+
+<!-- goal for the new year is to add all the boring skillsets (someone has to do this sht)-->
