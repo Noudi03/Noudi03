@@ -11,7 +11,7 @@ Here are some ideas to get you started:
 <summary><b>Github Streaks</b></summary>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Noudi03&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="streak"/></p>
 
-<summary><b>⚡ Github Stats</b></summary>
+<summary><b>Github Stats</b></summary>
 <p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Noudi03&show_icons=true&theme=radical&count_private=true" alt="commits" align = "center"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=noudi03&v=2&theme=radical" alt"commits" align = "center"/>
