@@ -9,7 +9,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ..
 -->
 <summary><b>Github Streaks</b></summary>
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Noudi03&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="streak"/></p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noudi03&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="streak"/>
+</p>
 
 <summary><b>Github Stats</b></summary>
 <p align="center">
@@ -17,8 +19,12 @@ Here are some ideas to get you started:
   <img height="140em" src="https://github-readme-stats.vercel.app/api/wakatime?username=noudi03&v=2&theme=radical&hide_border=true" alt"commits" align = "center"/>
 </p>
 
-
-
+<summary><b>Github Activity</b></summary>
+<p align="center"
+   <a href="#">
+      <img alt="Noudi's Activity Graph" src="https://readme-activity-graph-noudi.herokuapp.com/graph?username=Noudi03&hide_border=true&"/>
+   </a>
+</p>
 <!--![Github trophies](https://github-profile-trophy.vercel.app/?username=Noudi03&no-bg=true)-->
 
 
