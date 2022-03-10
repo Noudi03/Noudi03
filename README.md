@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 
 <summary><b>⚡ Github Stats</b></summary>
 <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=Noudi03&show_icons=true&theme=radical&count_private=true" alt="commits" align = "center"/>
- <br>
 <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=noudi03&v=2&theme=radical" alt"commits" align = "center"/></p>
 
 
