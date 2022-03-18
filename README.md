@@ -19,13 +19,14 @@ Here are some ideas to get you started:
   <img height="160em" src="https://github-readme-stats.vercel.app/api/wakatime?username=noudi03&v=2&theme=radical&hide_border=true" alt"wakatime" align = "center"/>
 </p>
 
+<!--takes a shit ton of time to load
 <summary><b>Github Activity</b></summary>
 <p align="center"
    <a href="#">
       <img alt="Noudi's Activity Graph" src="https://readme-activity-graph-noudi.herokuapp.com/graph?username=Noudi03&bg_color=141321&color=a9fef7&line=fe428e&point=fe428eF&hide_border=true"/>
    </a>
 </p>
-<!--![Github trophies](https://github-profile-trophy.vercel.app/?username=Noudi03&no-bg=true)-->
+<![Github trophies](https://github-profile-trophy.vercel.app/?username=Noudi03&no-bg=true)-->
 
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Noudi03.Noudi03)
