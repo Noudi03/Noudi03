@@ -8,6 +8,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ..
 -->
+![snake gif](https://github.com/Noudi03/Noudi03/blob/output/github-snake-dark.svg)
 
 <summary><b>Github Streaks</b></summary>
 <p align="center">
@@ -23,6 +24,9 @@ Here are some ideas to get you started:
 <p align="center">
   <img  src="https://leetcard.jacoblin.cool/noudi?theme=radical&font=Commissione&ext=activity" alt="leetcode" align = "center"/>
 </p>
+
+
+
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Noudi03.Noudi03)
 [![wakatime](https://wakatime.com/badge/user/1952dc92-64e1-40d8-8cc5-242b6d81d12a.svg)](https://wakatime.com/@1952dc92-64e1-40d8-8cc5-242b6d81d12a)
