@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <summary><b>Leetcode</b></summary>
 <p align="center">
-  <img  src="https://leetcard.jacoblin.cool/noudi?theme=radical&font=Abel&ext=activity" alt="leetcode" align = "center"/>
+  <img  src="https://leetcard.jacoblin.cool/noudi?theme=radical&font=Commissione&ext=activity" alt="leetcode" align = "center"/>
 </p>
 
 ![](https://visitor-badge.laobi.icu/badge?page_id=Noudi03.Noudi03)
