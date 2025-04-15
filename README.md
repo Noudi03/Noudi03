@@ -9,14 +9,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ..
 -->
 
-<!--summary><b>Github Streaks</b></summary>
+<summary><b>Github Streaks</b></summary>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Noudi03&theme=black-ice&hide_border=true&stroke=0000&background=141321&ring=fe428e&fire=a9fef7&currStreakLabel=a9fef7" alt="streak"/>
-</p-->
+  <img src=https://nirzak-streak-stats.vercel.app/?user=noudi03&theme=neon&hide_border=false=" alt="streak"/>
+</p>
 
 <summary><b>Github Stats</b></summary>
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-delta-seven-26.vercel.app/api?username=Noudi03&show_icons=true&theme=neon&include_private=true&hide_border=true" alt="commits" align = "center"/>
+  <img height="180em" src="https://github-readme-stats-delta-seven-26.vercel.app/api?username=Noudi03&show_icons=true&theme=neon&include_all_commits=true&count_private=true&include_private=true&hide_border=false" alt="commits" align = "center"/>
 </p>
 
 <summary><b>Leetcode</b></summary>
