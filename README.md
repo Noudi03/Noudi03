@@ -1,26 +1,7 @@
-<!--
-**Noudi03/Noudi03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ..
-- 🌱 I’m currently learning
-- 💬 Ask me about ...
-- 📫 How to reach me: ..
--->
-![snake gif](https://github.com/Noudi03/Noudi03/blob/output/github-snake-dark.svg)
-
-<summary><b>Github Streaks</b></summary>
-<p align="center">
-  <img src=https://nirzak-streak-stats.vercel.app/?user=noudi03&theme=neon&hide_border=false=" alt="streak"/>
-</p>
-
-<summary><b>Github Stats</b></summary>
-<p align="center">
-  <img height="180em" src="https://github-readme-stats-delta-seven-26.vercel.app/api?username=Noudi03&show_icons=true&theme=neon&include_all_commits=true&count_private=true&include_private=true&hide_border=false" alt="commits" align = "center"/>
-</p>
-
-<summary><b>Leetcode</b></summary>
-<p align="center">
-  <img  src="https://leetcard.jacoblin.cool/noudi?theme=radical&font=Commissione&ext=activity" alt="leetcode" align = "center"/>
-</p>
+🎶 **Now Playing**  
+**Song:** Lose Yourself  
+**Artist:** Eminem  
+**Album:** Curtain Call: The Hits  
+![Album Art](https://lastfm.freetls.fastly.net/i/u/300x300/0e4c959a450a45e89a95f65d2824d97d.png)  
+_Last updated: 2025-04-26 22:57:40_
