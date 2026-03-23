@@ -11,6 +11,7 @@
 
 ## 🛠️ Tech Stack
 
+<br>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,,py,sklearn,tensorflow,,arch,debian,git,bash,powershell,,vim,vscode,visualstudio,latex&perline=17)](https://skillicons.dev)
 
@@ -18,7 +19,6 @@
 
 ## 📊 GitHub Overview
 
-<br>
 
 <p align="center">
   <img src="https://github-readme-stats-liart-alpha.vercel.app/api?username=Noudi03&show_icons=true&theme=neon&include_all_commits=true&count_private=true&include_private=true&hide_border=false" height="180em" style="display:inline-block; width:49%;" />
