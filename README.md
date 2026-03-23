@@ -4,8 +4,8 @@
 <br>
 
 🎓 CS student - Software Engineering & Intelligent Systems  
-🔐 Cryptography and cybersecurity   
-🐧 Linux and open‑source
+🔐 Cryptography & cybersecurity   
+🐧 Linux & OSS 
 
 
 
