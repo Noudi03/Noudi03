@@ -9,7 +9,6 @@
 
 
 
-<br>
 
 ## 🛠️ Tech Stack
 
@@ -17,7 +16,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,,py,sklearn,tensorflow,,arch,debian,git,bash,powershell,,vim,vscode,visualstudio,latex&perline=17)](https://skillicons.dev)
 
-<br>
+
 
 ## 📊 GitHub Overview
 
@@ -28,7 +27,7 @@
   <img src="https://streak-stats.demolab.com?user=Noudi03&theme=neon&hide_border=false" height="180em" style="display:inline-block; width:49%;" />
 </p>
 
-<br>
+
 
 ## 🐍
 ![snake gif](https://github.com/Noudi03/Noudi03/blob/output/github-snake-dark.svg)
