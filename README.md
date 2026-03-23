@@ -11,7 +11,6 @@
 
 ## 🛠️ Tech Stack
 
-<br>
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,,py,sklearn,tensorflow,,arch,debian,git,bash,powershell,,vim,vscode,visualstudio,latex&perline=17)](https://skillicons.dev)
 
